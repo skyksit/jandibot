@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+
+[packages]
+APScheduler = "*"
+django = "*"
+gunicorn = "*"
+django-heroku = "*"
+requests = "*"
+selenium = "*"
+chardet = "*"
+dj-database-url = "*"
+psycopg2-binary = "*"
+urllib3 = "*"
+whitenoise = "*"
+idna = "*"
+pytz = "*"
+wincertstore = "*"
+beautifulsoup4 = "*"
+lxml = "*"
+
+[requires]
+python_full_version = "3.6.5"
